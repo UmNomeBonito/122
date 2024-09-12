@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+  }
+  
+  #status {
+	font-size: 18px;
+	color: red;
+  }
+  
+  canvas {
+	background-color: pink;
+	border-radius: 20px;
+  }
+  
+  #canvas-container {
+	margin-top: 20px;
+  }
+  
